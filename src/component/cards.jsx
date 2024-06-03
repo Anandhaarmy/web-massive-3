@@ -24,7 +24,7 @@ const products = [
         id: 3,
         name: 'Akademi Pertanian PGRI Wonosobo',
         description: "Jln. Mayjen Bambang Sugeng No. 1 Sidojoyo Wonosobo",
-        price: '300.000',
+        price: '800.000',
         imageUrl: product3
     }
 ];

@@ -18,8 +18,8 @@ const WelcomePage = () => {
               <span className="text-black text-2xl">Cari kost jadi lebih mudah, cepat, dan tidak perlu keliling kota.</span>
             </p>
             <div className="flex mt-8 md:flex-row md:space-x-4 md:items-center">
-              <img src={image1} alt="Image 1" className="w-60 h-60 rounded-lg shadow-lg mb-4 md:mb-0" />
-              <img src={image2} alt="Image 2" className="w-60 h-60 rounded-lg shadow-lg" />
+              <img src={image1} alt="Image 1" className="w-70 h-70 rounded-lg shadow-lg mb-4 md:mb-0" />
+              <img src={image2} alt="Image 2" className="w-70 h-70 rounded-lg shadow-lg" />
             </div>
           </div>
         </div>
