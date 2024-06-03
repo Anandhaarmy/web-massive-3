@@ -3,7 +3,7 @@ import React from 'react';
 function SearchForm() {
   return (
     <div className="container mx-auto p-4">
-      <section className="bg-gray-100 dark:bg-zinc-800 flex justify-center p-4">
+      <section className="bg-gray-100 flex justify-center p-4"> {/* Menghapus properti dark:bg-zinc-800 */}
         <form className="flex flex-col md:flex-row justify-center items-center gap-4 w-full max-w-3xl">
           <div className="w-full md:w-1/3">
             <input 
