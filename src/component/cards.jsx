@@ -10,14 +10,14 @@ const products = [
         id: 1,
         name: 'Universitas Sains Alquran (UNSIQ)',
         description: "Jl. KH. Hasyim Asy'ari Km. 03 Kalibeber Kecamatan Mojotengah.",
-        price: '100.000',
+        price: '2000.000',
         imageUrl: product1
     },
     {
         id: 2,
         name: 'Sekolah Tinggi Ilmu Kesehatan Muhammadiyah Wonosobo',
         description: "Jl. Munggang, kalibeber mojotengah wonosobo.",
-        price: '150.000',
+        price: '170.000',
         imageUrl: product2
     },
     {
